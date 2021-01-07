@@ -6,5 +6,6 @@ Foi utilizado a linguagem python com as bibliotecas scikit learn, pandas, numpy,
 A base de dados foi alterada para refletir o resultado em formato numerico.
 
 Base original foi retitada do site: http://football-data.co.uk/
+
 Base churn de clientes : https://www.kaggle.com/blastchar/telco-customer-churn
 
